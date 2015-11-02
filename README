@@ -1,0 +1,11 @@
+Noisy World Reciprocity Simulation
+
+Language: c
+
+
+An efficient simulation of the evolutionary dynamics of reciprocity in an environment where information about your partner's action is poor. Your partner's action generates a continuous signal, normally distributed around +S if they cooperated and -S if they defected. Strategies use different, evolving sensitivity thresholds to decide how strong a signal is enough to respond as though their partner actually had cooperated or defected.
+
+
+
+
+
